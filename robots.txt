@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaisieghii.kgeiger.com/sitemap.xml
